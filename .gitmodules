@@ -1,0 +1,3 @@
+[submodule "alfred_api"]
+	path = alfred_api
+	url = https://github.com/AskeyNil/alfred_api.git
